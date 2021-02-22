@@ -5,7 +5,8 @@
 This project implements **text clustering** using K-Means++ on a large dataset. The goal is to improve *efficiency* of the K-Means algorithm without loosing *effectiveness*.
 
 ## Dataset
-The dataset is not available on this repository, due to its large dimension. The cluster labels were available for the evaluation, that is performed using accuracy metric.
+The dataset is not available on this repository, due to its large dimension. It contains 314808 reviews, mostly in english.
+The cluster labels were available for the evaluation, that is performed using accuracy metric.
 
 ## Methodology
 We compared the results obtained through different approaches:
